@@ -8,7 +8,7 @@ AkDocker is a dockerfile for AkShare's latest version test
 
 ### Pull AkDocker
 ```
-git pull registry.cn-hangzhou.aliyuncs.com/akshare/akdocker
+docker pull registry.cn-hangzhou.aliyuncs.com/akshare/akdocker
 ```
 
 ### Run AkDocker
