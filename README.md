@@ -4,6 +4,14 @@ AkDocker is a dockerfile for AkShare's latest version test
 
 ## Install Docker
 
+## Windows
+
+[安装教程](https://www.cnblogs.com/skatesky/archive/2019/12/05/11987955.html)
+
+## Ubuntu
+
+[安装教程](https://www.jianshu.com/p/28d41eb592b0)
+
 ## Command
 
 ### Pull AkDocker
